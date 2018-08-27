@@ -1,5 +1,5 @@
 # report-template
-Template for LaTeX coursework reports. Uses [cookiecutter](https://github.com/audreyr/cookiecutter) to create new projects with the template report easily. Based on [this](https://github.com/selimb/cookiecutter-latex-article) latex cookiecutter project, but with my personal LaTeX styles/settings.
+Template for LaTeX coursework reports. Uses [cookiecutter](https://github.com/audreyr/cookiecutter) to create new projects with the template report easily. Based on [this](https://github.com/selimb/cookiecutter-latex-article) latex cookiecutter project, but with my personal styles/settings.
 
 ## Usage
 `cookiecutter` is needed to generate the template
