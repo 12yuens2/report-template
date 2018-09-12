@@ -20,4 +20,4 @@ In no particular order:
 - [ ] Option for either monolithic `Report.tex` or split into `main.tex` with subfiles
 - [ ] Sample entry in bibliography
 - [ ] Sample entry in appendix
-- [ ] Import graph plotting macros from previous coursework
+- [x] Import graph plotting macros from previous coursework
