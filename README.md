@@ -16,7 +16,7 @@ Relevant information such as title/author can be filled in on the CLI or left bl
 
 ## TODO
 In no particular order:
-- [ ] Organise `.sty` files into some directory rather than all top level
+- [x] Organise `.sty` files into some directory rather than all top level
 - [ ] Option for either monolithic `Report.tex` or split into `main.tex` with subfiles
 - [ ] Sample entry in bibliography
 - [ ] Sample entry in appendix
