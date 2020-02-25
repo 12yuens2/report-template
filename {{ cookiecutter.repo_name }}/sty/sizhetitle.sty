@@ -1,4 +1,4 @@
-{% raw %}
+
 
 % Set title/author/date for title page
 \makeatletter
@@ -14,7 +14,8 @@
 \newcommand{\maketitlepage}[2]{
 \begin{titlepage}
 	\centering
-        \includegraphics[scale=0.4]{imgs/logo.png}\\ % University Logo
+        \includegraphics[scale=0.4]{imgs/soton.png}\\ % University Logo
+        \vspace{3cm}
 	\textsc{\LARGE #1}\\[0.5 cm] % Course Code
 	\rule{\linewidth}{0.2 mm} \\[0.4 cm]
 	{ \huge \bfseries \thetitle}
@@ -23,7 +24,7 @@
 	
 	\begin{minipage}{0.4\textwidth}
 		\begin{flushleft} \large
-			\emph{Lecturer:}\\
+			\emph{Supervisor:}\\
 			#2
 			\end{flushleft}
 			\end{minipage}~
@@ -39,4 +40,4 @@
 \end{titlepage}
 }
 
-{% endraw %}
+
